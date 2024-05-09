@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("19AI308-Object-Oriented-Programming-using-CSharp--Ex5-Operator-Overloading")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2e1525e3b5c1554315d7097713f17d4530f8673")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e8821664e9c010c7a9b13b42367cc5722fdd40b")]
 [assembly: System.Reflection.AssemblyProductAttribute("19AI308-Object-Oriented-Programming-using-CSharp--Ex5-Operator-Overloading")]
 [assembly: System.Reflection.AssemblyTitleAttribute("19AI308-Object-Oriented-Programming-using-CSharp--Ex5-Operator-Overloading")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
